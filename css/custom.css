@@ -48,6 +48,7 @@ header{
 
 .call-to-action{
               background: url(../img/banner.jpg) no-repeat center center;
+              color: #ffffff;
               background-size: cover;
               padding-top: 7rem;
               padding-bottom: 7rem;
